@@ -1,0 +1,13 @@
+name: FancyCam
+version: 0
+main: FancyCam.MainClass
+commands:
+   cam:
+     usage:
+     description:
+   loop:
+     usage:
+     description:
+   bouncecam:
+     usage:
+     description:
